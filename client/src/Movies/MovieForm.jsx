@@ -69,7 +69,7 @@ const MovieForm = () => {
               id="metascore"
               type="text"
               name="metascore"
-              placeholder="Metascore"
+              placeholder="Metascor"
               onChange={handleChange}
               value={movie.metascore}
             />
